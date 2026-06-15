@@ -43,9 +43,7 @@ Figma · Adobe Photoshop
 
 ## 🌐 Find Me Online
 
-- 🌍 [benoconnor.co.uk](https://www.benoconnor.co.uk)
-- 💼 [LinkedIn](https://linkedin.com/in/ben-o-connor-3b61a3377)
-- 🐦 [Twitter / X](https://twitter.com/bok04)
+[benoconnor.co.uk](https://www.benoconnor.co.uk) · [LinkedIn](https://linkedin.com/in/ben-o-connor-3b61a3377) · [Twitter / X](https://twitter.com/bok04)
 
 ---
 
