@@ -13,7 +13,7 @@ Vue.js · Nuxt 4 · React · Next.js · Astro · TypeScript · Tailwind CSS · P
 Laravel · PHP · MySQL · Slim
 
 **E-Commerce & CMS**
-Shopify Storefront API · Strapi · Magento · OpenCart
+Shopify, Shopify Storefront API · Strapi · Magento · OpenCart
 
 **Mobile**
 React Native · SwiftUI · Ionic
